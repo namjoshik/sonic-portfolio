@@ -26,9 +26,10 @@ p{
 
 footer{
   text-align: center;
-  font-size: 3em;
-  font-family: 'Brush Script MT', cursive;
-  font-weight: bold;
+  font-size: 1.5em;
+  font-family: 'Brush Script MT';
+  /* font-weight: bold; */
+  margin-top: 10%;
 }
 
 body {
