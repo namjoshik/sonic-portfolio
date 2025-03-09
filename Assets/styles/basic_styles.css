@@ -1,0 +1,27 @@
+.skills {
+  position: absolute;
+  left: -5%;
+  animation: slideIt 20s linear;
+}
+
+.frame {
+  margin: 0% 5% 2% 5% ;
+  padding: 2%;
+  border: 2px solid white;
+  background-color: black;
+  box-shadow: 10px 10px 10px;
+  color: white
+}
+
+/* ul {
+  color: white;
+} */
+
+/* .navtab{
+  margin: 0% 8% 0% 5%;
+  background-color: black;
+} */
+
+body {
+  background-color: cornflowerblue;
+}

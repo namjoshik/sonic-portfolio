@@ -20,8 +20,11 @@
 
 p{
   font-family: Verdana, sans-serif;
-  text-align: center;
-  text-justify: auto;
+  text-align: justify;
+}
+
+#skills {
+  border-right: 0.75px solid black;
 }
 
 footer{

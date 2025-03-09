@@ -1,11 +1,11 @@
 .frame {
-  margin: 0 20% 0 20%;
+  margin: 1% 25% 0 25%;
   font-family: Cambria;
 }
 
 .inner_frame {
   text-align: center;
-  display: flex;
+  display: grid;
   align-items: center;
   margin-bottom: -1.5%;
 }

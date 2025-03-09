@@ -5,6 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Kartik Namjoshi</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <link rel="shortcut icon" href="../images/favicon.jpeg" type="image/x-icon">
@@ -15,7 +16,7 @@
 <!-- Navbar code   -->
   <nav class="navbar navbar-expand-md bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Kartik Namjoshi</a>
+    <a class="navbar-brand" href="../../index.html"><img src="../images/sonic_profile.png" height="50px">Kartik Namjoshi</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -31,63 +32,75 @@
           <li class="nav-item">
             <a class="nav-link" aria-current="page" href="./careerSummary.html" id="_careerSummary">Career Summary</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#" id="_contactMe">Contact Me</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Dropdown
+            </a>
+            <ul class="dropdown-menu">
+              <li class="list-group-item"><i class="bi bi-phone"></i>+971559531750</li>
+              <li class="list-group-item"><i class="bi bi-phone"></i> +918982134217</li>
+              <li class="list-group-item"><i class="bi bi-envelope-at"></i> kartik.namjoshi@gmail.com</li>
+              <li class="list-group-item"><i class="bi bi-instagram"></i> _babaNamjo</li>
+            </ul>
           </li>
+
         </ul>
       </div>
   </div>
   </nav>
 <!-- Center piece of the Page -->
-  <div class="container-fluid text-wrap justify-content-center">
-    <div class="row d-flex">
-      <div class="col-lg-3">
-        <img src="../images/sonic_profile.png" class="intro img-fluid" alt="...">
-      </div>
-      <div class="col-lg-8 text-wrap">
-        <p style="text-align: justify;">
-          <h3>PROFESSIONAL SUMMARY</h3>
-          A seasoned professional with over 11 years of extensive experience in the IT Industry,
-          demonstrating a strong track record of delivering complex projects on time and within budget. Proven expertise in
-          leading cross-functional teams, implementing innovative solutions, and enhancing customer satisfaction through strategic
-          planning and effective stakeholder engagement. Adept at managing multiple projects simultaneously, optimizing processes,
-          and driving continuous improvement in fast-paced environments. Skilled in leveraging industry best practices and
-          emerging technologies to achieve business objectives and ensure successful project outcomes.
-        </p>
-        <hr>
-        <div class="row d-flex">
-            <div class="col-lg-6">
-              <h3>SKILLS</h3>
-              <ul>
-                <li>Planning and Coordination</li>
-                <li>Project Management</li>
-                <li>Budget Management</li>
-                <li>Stakeholder Management</li>
-                <li>Leadership</li>
-                <li>Supplier Management</li>
-                <li>People Management</li>
-                <li>Process Automation</li>
-              </ul>
-            </div>
-            <hr>
-            <div class="col-lg-6">
-              <h3>EDUCATION</h3>
-                <ul>
-                  <li>Post Graduate Diploma in IT Management | Symbiosis Center for Distance Learning Pune, India | 2014 - 2016
-                  </li>
-                  <li>Bachelor of Technology | Maulana Azad National Institute of Technology Bhopal, India | 2008 - 2012</li>
-                </ul>
-            </div>
+  <div class="container-fluid">
+      <div class="row">
+        <div class="col-lg-3">
+
         </div>
-
+        <div class="col-lg-6">
+          <div class="row">
+            <div class="col-lg-12">
+              <hr>
+              <h3>PROFESSIONAL SUMMARY</h3>
+              <p>
+                A seasoned professional with over 11 years of extensive experience in the IT Industry,
+                demonstrating a strong track record of delivering complex projects on time and within budget. Proven expertise in
+                leading cross-functional teams, implementing innovative solutions, and enhancing customer satisfaction through
+                strategic
+                planning and effective stakeholder engagement. Adept at managing multiple projects simultaneously, optimizing
+                processes,
+                and driving continuous improvement in fast-paced environments. Skilled in leveraging industry best practices and
+                emerging technologies to achieve business objectives and ensure successful project outcomes.
+              </p>
+              <hr>
+            </div>
+            <div class="row">
+              <div class="col-lg-6" id="skills">
+                <h3>SKILLS</h3>
+                <ul>
+                  <li>Planning and Coordination</li>
+                  <li>Project Management</li>
+                  <li>Budget Management</li>
+                  <li>Stakeholder Management</li>
+                  <li>Leadership</li>
+                  <li>Supplier Management</li>
+                  <li>People Management</li>
+                  <li>Process Automation</li>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <h3>EDUCATION</h3>
+                <ul>
+                  <li><strong>Post Graduate Diploma in IT Management</strong> | Symbiosis Center for Distance Learning Pune, India | 2014 - 2016</li>
+                  <li><strong>Bachelor of Technology</strong> | Maulana Azad National Institute of Technology Bhopal, India | 2008 - 2012</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <hr>
+        </div>
       </div>
-    </div>
   </div>
-
-
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
-    <script src="./Assets/scripts/script.js"></script>
+    <script src="../scripts/script.js"></script>
 </body>
 <footer>"To hell with luck, lets create Opportunities!"</footer>
 </html>

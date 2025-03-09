@@ -1,0 +1,55 @@
+A seasoned professional with over 11 years of extensive experience in the IT Industry,
+demonstrating a strong track record of delivering complex projects on time and within budget. Proven expertise in
+leading cross-functional teams, implementing innovative solutions, and enhancing customer satisfaction through
+strategic
+planning and effective stakeholder engagement. Adept at managing multiple projects simultaneously, optimizing
+processes,
+and driving continuous improvement in fast-paced environments. Skilled in leveraging industry best practices and
+emerging technologies to achieve business objectives and ensure successful project outcomes.
+
+
+
+<li>Planning and Coordination</li>
+                <li>Project Management</li>
+                <li>Budget Management</li>
+                <li>Stakeholder Management</li>
+                <li>Leadership</li>
+                <li>Supplier Management</li>
+                <li>People Management</li>
+                <li>Process Automation</li>
+
+
+
+
+                <li>Post Graduate Diploma in IT Management | Symbiosis Center for Distance Learning Pune, India | 2014 - 2016
+                </li>
+                <li>Bachelor of Technology | Maulana Azad National Institute of Technology Bhopal, India | 2008 - 2012</li>
+
+
+<div class="card" style="width: 18rem;">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="card-link">Card link</a>
+    <a href="#" class="card-link">Another link</a>
+  </div>
+</div>
+
+
+<h5><i class="bi bi-hand-thumbs-up"></i><span>&nbsp</span>SKILLS</h5>
+              <ul>
+                <li>Planning and Coordination</li>
+                <li>Budget Management</li>
+                <li>Project Management</li>
+                <li>Leadership</li>
+                <li>Stakeholder Management</li>
+                <li>People Management</li>
+                <li>Supplier Management</li>
+                <li>Process Automation</li>
+              </ul>
+
+
+<i class="bi bi-star"></i>
+<i class="bi bi-star-fill"></i>
+<i class="bi bi-star-half"></i>
